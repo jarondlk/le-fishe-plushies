@@ -9,3 +9,7 @@ function displayToast() {
 
             console.log(toastList); // Testing to see if it works
         };
+
+function orderSuccess() {
+    alert("Your order has been processed sucessfully");
+}
