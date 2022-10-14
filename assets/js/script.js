@@ -11,5 +11,6 @@ function displayToast() {
         };
 
 function orderSuccess() {
-    alert("Your order has been processed sucessfully");
+    temp = document.getElementById("totalPriceFinal").innerHTML;
+    alert("Total price of your order: ฿" + temp + "\nYour order has been processed sucessfully");
 }
