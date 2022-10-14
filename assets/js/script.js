@@ -12,5 +12,5 @@ function displayToast() {
 
 function orderSuccess() {
     temp = document.getElementById("totalPriceFinal").innerHTML;
-    alert("Total price of your order: ฿" + temp + "\nYour order has been processed sucessfully");
+    alert("Total price of your order: ฿" + temp + "\nYour order has been processed sucessfully\nThank you for shopping Le fishe Plushies");
 }
