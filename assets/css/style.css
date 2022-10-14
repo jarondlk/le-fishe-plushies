@@ -1,17 +1,10 @@
 /* 
-
 [ Colors Palettes ]
 Brick Red: #DD7564 (Header)
 Steel Blue: #1FA5A6 (Call To Action)
 Light Blue: #B2DEDD (Underline/ Highlight)
 Light Beige: #F0EDE6 (Background)
-
 */
-
-html * {
-    /* background-color: #F0EDE6; */
-    /* font-family: 'Halant', serif; */
-}
 
 body {
     font-family: 'Work Sans', sans-serif;
